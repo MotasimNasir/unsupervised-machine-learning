@@ -1,4 +1,4 @@
-# unsupervised-machine-learning: Myopia Clusters
+# Unsupervised Machine Learning: Myopia Clusters
 
 This repository contains code carrying out the following:
 
